@@ -1,0 +1,13 @@
+class TreeConstruction{
+	
+public static void main(String[] args) {
+     	Scanner in = new Scanner(System.in);
+        	int n = in.nextInt();
+        	int degree[] = new int[n];
+        	for(int degree_i=0; degree_i < n; degree_i++){
+        	    degree[degree_i] = in.nextInt();
+        	}  
+
+
+
+}
