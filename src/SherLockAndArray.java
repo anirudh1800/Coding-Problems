@@ -35,6 +35,8 @@ public class SherLockAndArray {
                 }
             }
 
+            
+
             if (!flag)
                 System.out.println("NO");
         }
