@@ -20,7 +20,7 @@ public class BinarySearch {
         return target > sortedArray[low] ? low + 1 : low;
     }
 
-    // Stub code
+    // main Stub
     public static void main(String args[]) {
         // Assumption: No duplicates
         int array[] = {2, 4, 5, 6, 10, 34};
