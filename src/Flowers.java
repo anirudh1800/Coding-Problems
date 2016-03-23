@@ -23,8 +23,9 @@ public class Flowers {
 
         int result = minCostFlowers(C, N, K);
 
-
         System.out.println(result);
+        
+        scan.close();
 
     }
 
