@@ -22,6 +22,7 @@ public class DisasterRecovery {
        cost = findMinCost(0, noOfServers - 1, costs, 0, 1);
        
        System.out.println(cost);
+       scan.close();
     }
     
     public static int findMinCost(int start, int end, int costs[], int cost, int hour){
