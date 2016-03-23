@@ -36,5 +36,7 @@ public class MaxMin {
         }
 
         System.out.println(unfairness);
+        
+        in.close();
     }
 }
