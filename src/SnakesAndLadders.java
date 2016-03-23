@@ -33,6 +33,8 @@ public class SnakesAndLadders {
 
             System.out.println(minRolls(ladders, snakes));
         }
+        
+        scan.close();
 
     }
 
