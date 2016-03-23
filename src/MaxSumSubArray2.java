@@ -17,6 +17,8 @@ public class MaxSumSubArray2 {
         }
 
         System.out.println(findMaxSumSubArray(0, n - 1, nums));
+        
+        scan.close();
 
     }
 
