@@ -20,6 +20,8 @@ public class MaxSubArray {
             maxSubarray(A, N);
 
         }
+        
+        scan.close();
 
     }
 
