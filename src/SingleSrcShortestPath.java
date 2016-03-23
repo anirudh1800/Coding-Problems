@@ -36,6 +36,8 @@ public class SingleSrcShortestPath {
             int source = scan.nextInt();
             shortestPathFrmSrc(adj, source, N);
         }
+        
+        scan.close();
     }
 
     public static void shortestPathFrmSrc(List<Integer>[] g, int startnode, int N) {
