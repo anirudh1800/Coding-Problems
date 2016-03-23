@@ -43,5 +43,6 @@ public class ContestBalance {
             }
         }
         System.out.println(ans);
+        scan.close();
     }
 }
