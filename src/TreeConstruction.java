@@ -14,6 +14,7 @@ public static void main(String[] args) {
     }
 
 	System.out.println(isFeasibleTree(tree, degree));
+	scan.close();
 }
     
 public static boolean isFeasibleTree(int tree[], int[] degree){
