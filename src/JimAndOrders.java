@@ -45,6 +45,8 @@ public class JimAndOrders {
 
             t--;
         }
+        
+        scan.close();
     }
 }
 

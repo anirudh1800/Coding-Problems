@@ -35,6 +35,7 @@ public class EvenTree {
         }
 
         System.out.println(cuts);
+        scan.close();
     }
 
     static int dfs(int i, int[][] adjMatrix){

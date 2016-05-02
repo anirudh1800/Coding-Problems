@@ -30,6 +30,7 @@ public class SherLockAndBeast {
             }
 
         }
-
+        
+        scan.close();
     }
 }
