@@ -25,7 +25,7 @@ public class Flowers {
 
         System.out.println(result);
         
-        scan.close();
+        in.close();
 
     }
 

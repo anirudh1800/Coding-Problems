@@ -31,6 +31,6 @@ public class SherLockAndBeast {
 
         }
         
-        scan.close();
+        in.close();
     }
 }
